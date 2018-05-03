@@ -8,6 +8,7 @@
 		<style></style>
 	</head>
 	<body>
+
 		<ol>
 			<li>List</li>
 			<li>List</li>
@@ -19,6 +20,17 @@
 			<li>List</li>
 		</ol>
 	<p>리스트 추가끝</p>
+		<ul>
+			<li>첫번째 리스트</li>
+			<li>두번째 리스트</li>
+			<li>세번째 리스트</li>
+			<li>네번째 리스트</li>
+			<li>다섯번째 리스트</li>
+			<li>여섯번째 리스트</li>
+			<li>일곱번째 리스트</li>
+		</ul>
+		<p>리스트추가그만</p>
+
 	</body>
 	<script></script>
 </html>
