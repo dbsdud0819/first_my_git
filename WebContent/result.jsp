@@ -8,7 +8,7 @@
 		<style></style>
 	</head>
 	<body>
-
+	<h3>깃허브 가입을 축하합니다.</h3>
 		<ol>
 			<li>List</li>
 			<li>List</li>
