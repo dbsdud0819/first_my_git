@@ -10,7 +10,6 @@
 	<body>
 		<h3>로그인 페이지</h3>
 	</body>
-	<form action="">
 	<table>
 		<tr>
 			<td>ID</td>
@@ -26,6 +25,5 @@
 			</td>
 		</tr>
 	</table>
-	</form>
 	<script></script>
 </html>
